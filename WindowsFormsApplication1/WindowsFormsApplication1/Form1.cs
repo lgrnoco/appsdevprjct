@@ -98,6 +98,18 @@ namespace WindowsFormsApplication1
         }
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+        
+        }
+         private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+        
+        }
+         private void otherTextbox_Load(object sender, EventArgs e)
+        {
+        
+        }
+        
 
     }
 }
